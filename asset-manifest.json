@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/guru/static/css/main.e50f88f5.css",
+    "main.js": "/guru/static/js/main.7cf276c1.js",
+    "static/js/453.ce34ca42.chunk.js": "/guru/static/js/453.ce34ca42.chunk.js",
+    "static/media/gini.png": "/guru/static/media/gini.a74ddb88fb05a0f5a666.png",
+    "index.html": "/guru/index.html",
+    "main.e50f88f5.css.map": "/guru/static/css/main.e50f88f5.css.map",
+    "main.7cf276c1.js.map": "/guru/static/js/main.7cf276c1.js.map",
+    "453.ce34ca42.chunk.js.map": "/guru/static/js/453.ce34ca42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e50f88f5.css",
+    "static/js/main.7cf276c1.js"
+  ]
+}
